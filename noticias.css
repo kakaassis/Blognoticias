@@ -1,0 +1,102 @@
+.minha-div {
+    text-align: center;
+    background-color: rgb(2, 123, 123);
+    padding: 0px;
+    margin-top: 0%;
+    word-spacing: 10px;
+    color: rgb(0, 0, 0);
+    border-radius: 10px;
+
+}
+
+.quadrado {
+    width: 300px;
+
+    height: 530px;
+
+    background-color: rgb(2, 123, 123);
+
+    padding: 10px;
+
+    color: rgb(7, 6, 6);
+
+    font-size: 16px;
+    border-radius: 10px;
+
+
+
+}
+
+.k {
+    width: 300px;
+
+    height: 530px;
+
+    background-color: rgb(2, 123, 123);
+
+    padding: 10px;
+
+    color: rgb(1, 1, 1);
+
+    font-size: 16px;
+    border-radius: 10px;
+   
+}
+
+
+
+
+.container {
+    display: flex;
+    gap: 10px;
+}
+
+p {
+    color: rgb(205, 205, 205);
+    text-align: justify;
+}
+
+img {
+    border-radius: 10px;
+}
+
+.l {
+    color: rgb(253, 252, 252);
+    text-align: justify;
+}
+
+.a {
+    width: 300px;
+
+    height: 530px;
+
+    background-color: rgb(2, 123, 123);
+
+    padding: 10px;
+
+    color: rgb(1, 1, 1);
+
+    font-size: 16px;
+    border-radius: 10px;
+   
+}
+
+.u{
+    width: 300px;
+
+    height: 530px;
+
+    background-color: rgb(2, 123, 123);
+
+    padding: 10px;
+
+    color: rgb(1, 1, 1);
+
+    font-size: 16px;
+    border-radius: 10px;
+}
+    
+
+
+
+
